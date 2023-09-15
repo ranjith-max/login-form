@@ -1,0 +1,73 @@
+body{
+	background-color: white;
+	background-size: cover;
+}
+h2{
+	text-align: center;
+	color: black;
+	font-family: arial,helvatica,sans-serif;
+	font-size: 28px;
+}
+.c8{
+	text-align: center;
+	background-size: inherit;
+	margin: 20px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	background-position: 100px 50px;
+
+}
+.c4 button{
+	background-color: white;
+	position: relative;
+	width:200px;
+	padding:10px 0;
+	text-align: centre;
+	margin:10px 10px;
+	font-weight: bold;
+}
+.c4 button{
+	position: relative;
+	background-color: #1e90ff;
+	font-weight: bold;
+	padding: 15px 0;
+	border-radius: 5px;
+	text-align: centre;
+	font-weight: bold;
+	width:120px;
+	color: #fff;
+	cursor: pointer;
+	box-shadow: 0 0 10px(0,0,0,0.1);
+}
+.c4 button:hover{
+	box-shadow: 0 0 20px rgba(0,0,0,0.5);
+}
+ .c1 button{
+ 	margin: 10px 2px;
+	position: relative;
+	background-color: #1e90ff;
+	font-weight: bold;
+	padding: 15px 0;
+	border-radius: 5px;
+	text-align: centre;
+	font-weight: bold;
+	width:120px;
+	color: #fff;
+	cursor: pointer;
+	box-shadow: 0 0 10px(0,0,0,0.1);
+
+}
+.c1 button:hover{
+	box-shadow: 0 0 20px rgba(0,0,0,0.5);
+}
+::placeholder {
+color: blue;
+}
+.c2 input{
+	padding: 7px;
+	width: 18%;
+}
+.c3 input{
+	padding: 7px;
+	width: 18%;
+}
